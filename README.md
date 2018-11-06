@@ -1,2 +1,4 @@
 # hello-world
-just another repository
+
+Yo people,
+Please feed me with new challenges!
